@@ -1,0 +1,41 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Intellectual History"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Metaphysics"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Humanities",
+      "Literature"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "b3f3b8de-3c36-b12e-0f0d-097bb91fd6ed"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Darwin and Design",
+  "course_description": "Humans are social animals; social demands, both cooperative and competitive, structure our development, our brain and our mind. This course covers social development, social behaviour, social cognition and social neuroscience, in both human and non-human social animals. Topics include altruism, empathy, communication, theory of mind, aggression, power, groups, mating, and morality. Methods include evolutionary biology, neuroscience, cognitive science, social psychology and anthropology.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "21W.739J",
+  "primary_course_number": "21L.448J",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
